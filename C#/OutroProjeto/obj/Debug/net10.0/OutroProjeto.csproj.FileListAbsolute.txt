@@ -1,0 +1,16 @@
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\bin\Debug\net10.0\OutroProjeto.exe
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\bin\Debug\net10.0\OutroProjeto.deps.json
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\bin\Debug\net10.0\OutroProjeto.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\bin\Debug\net10.0\OutroProjeto.dll
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\bin\Debug\net10.0\OutroProjeto.pdb
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.dll
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\refint\OutroProjeto.dll
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.pdb
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\ref\OutroProjeto.dll
+C:\Users\joaov\OneDrive\Documentos\GitHub\RepoPessoalPaiva\C#\OutroProjeto\obj\Debug\net10.0\OutroProjeto.csproj.AssemblyReference.cache

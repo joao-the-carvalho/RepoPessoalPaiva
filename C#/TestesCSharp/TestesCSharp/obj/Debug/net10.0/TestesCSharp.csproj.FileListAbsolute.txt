@@ -1,0 +1,17 @@
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\bin\Debug\net10.0\TestesCSharp.exe
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\bin\Debug\net10.0\TestesCSharp.deps.json
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\bin\Debug\net10.0\TestesCSharp.runtimeconfig.json
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\bin\Debug\net10.0\TestesCSharp.dll
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\bin\Debug\net10.0\TestesCSharp.pdb
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.AssemblyInfo.cs
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.dll
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\refint\TestesCSharp.dll
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.pdb
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.genruntimeconfig.cache
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\ref\TestesCSharp.dll
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\bin\Debug\net10.0\zxcvbn-core.dll
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCSharp.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\TestesCSharp\TestesCSharp\obj\Debug\net10.0\TestesCS.532B3DB3.Up2Date
